@@ -2,7 +2,7 @@
 
 ## Objective
 
-The object of this project is to practice intermediary HTML and CSS knowlegde through the fictional web page named "TecBlog - Seu Blog de Tecnologia".
+The object of this project is to practice intermediary HTML and CSS skills through the fictional web page named "TecBlog - Seu Blog de Tecnologia".
 
 # Run project
 
